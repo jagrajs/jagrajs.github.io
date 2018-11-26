@@ -46,7 +46,7 @@ html, body {
 	font-style: normal;
 	font-weight: 400;
     height: 100%;
-	background-color: #f9f9f9;
+	background-color: #000000;
 	padding: 0;
 	margin: 0;
 }
@@ -202,7 +202,7 @@ main.container {
     justify-content: center;
 }
 main.container section.content h1 {
-	color: #21211f;
+	color: #FFFFFF;
 	font-size: 7.35rem;
 	padding: 0;
 	letter-spacing: -0.1rem;
