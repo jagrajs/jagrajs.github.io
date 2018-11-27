@@ -5,39 +5,6 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,900');
 
 /***** Web Fonts *****/
-@font-face {
-	font-family: 'icomoon';
-	src: url('fonts/icomoon.eot?za1o0');
-	src: url('fonts/icomoon.eot?za1o0#iefix') format('embedded-opentype'),
-		 url('fonts/icomoon.ttf?za1o0') format('truetype'),
-		 url('fonts/icomoon.woff?za1o0') format('woff'),
-		 url('fonts/icomoon.svg?za1o0#icomoon') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-[class^="icon-"], [class*=" icon-"] {
-	font-family: 'icomoon' !important;
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
-.icon-facebook:before {
-	content: "\e900";
-}
-.icon-instagram:before {
-	content: "\e901";
-}
-.icon-linkedin:before {
-	content: "\e902";
-}
-.icon-twitter:before {
-	content: "\e903";
-}
 
 /***** General Styles *****/
 html, body {
