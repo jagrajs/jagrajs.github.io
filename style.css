@@ -226,20 +226,12 @@ footer a {
 	color: #a9a9a9;
 	font-size: 30px;
 	transition: all 0.5s ease;
-}
-footer a.tw:hover {
-	color: #1da1f2;
-	transition: all 0.5s ease;
-}
-footer a.fb:hover {
-	color: #3b5998;
-	transition: all 0.5s ease;
-}
-footer a.gh:hover {
+
+footer a.ft:hover {
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
-footer a.li:hover {
+footer a.ft:hover {
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
