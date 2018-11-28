@@ -230,10 +230,6 @@ footer a.ft:hover {
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
-footer a.ft:hover {
-	color: #ffffff;
-	transition: all 0.5s ease;
-}
 
 /***** Responsiveness *****/
 @media all and (max-width: 740px) {
