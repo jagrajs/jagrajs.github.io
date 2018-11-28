@@ -225,6 +225,7 @@ footer a {
 	color: #a9a9a9;
 	font-size: 30px;
 	transition: all 0.5s ease;
+}
 
 footer a.li:hover {
 	color: #ffffff;
