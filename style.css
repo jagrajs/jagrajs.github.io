@@ -226,7 +226,7 @@ footer a {
 	font-size: 30px;
 	transition: all 0.5s ease;
 
-footer a.ft:hover {
+footer a:hover {
 	color: #ffffff;
 	transition: all 0.5s ease;
 }
