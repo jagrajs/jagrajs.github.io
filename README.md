@@ -1,3 +1,3 @@
 Minimal landing page.
 
-http://jag.ai
+https://jag.ai
