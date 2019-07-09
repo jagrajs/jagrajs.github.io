@@ -1,3 +1,3 @@
-Responsive, minimal landing page.
+Minimal landing page.
 
 https://jag.ai
