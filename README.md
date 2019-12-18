@@ -2,7 +2,7 @@
 
 https://jag.ai
 
-#### Resources
+### Resources
 
 [Easy Fullscreen Landing Page With HTML & CSS](https://www.youtube.com/watch?v=hVdTQWASliE)
 
