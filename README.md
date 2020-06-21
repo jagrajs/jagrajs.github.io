@@ -1,6 +1,6 @@
 ### Minimal Landing Page
 
-https://jag.ai
+https://jagrajsingh.com
 
 ### Resources
 
