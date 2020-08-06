@@ -2,7 +2,14 @@
 
 https://jagrajsingh.com
 
-### Resources
+#### To Do
+
+1. Move CSS to separate file while maintaining **exact** formatting (especially on mobile).
+
+2. Remove 99% of unused CSS. See if there is a quicker way than manually going through 10,000+ lines.
+
+
+#### Old Resources
 
 [Easy Fullscreen Landing Page With HTML & CSS](https://www.youtube.com/watch?v=hVdTQWASliE)
 
