@@ -1,15 +1,21 @@
-### Minimal Landing Page
+# Minimal Landing Page
 
-https://jagrajsingh.com
+Visit the website at: https://jagrajsingh.com
 
-#### To Do
+---
+## About
+
+This is my minimal portfolio website that has links to my social media, projects, résumé, and contact information.
+
+---
+## To Do
 
 1. Move CSS to separate file while maintaining **exact** formatting (especially on mobile).
 
 2. Remove 99% of unused CSS. See if there is a quicker way than manually going through 10,000+ lines.
 
-
-#### Old Resources
+---
+## Previous Design Resources
 
 [Easy Fullscreen Landing Page With HTML & CSS](https://www.youtube.com/watch?v=hVdTQWASliE)
 
